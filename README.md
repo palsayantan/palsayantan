@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Web and App developer**
 
-- 👨‍💻 All of my projects are available at [my Portfolio](fiverr.com/users/vortex968/portfolio)
+- 👨‍💻 All of my projects are available at [my Portfolio](https://www.fiverr.com/users/vortex968/portfolio)
 
 - 💬 Ask me about **IOT and Automation**
 
