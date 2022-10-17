@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palsayantan&label=Profile%20views&color=0e75b6&style=flat" alt="palsayantan" /> </p>
 
-- 🔭 I’m currently working as a **PCB designer and hardware developer on** [Fiverr](fiverr.com/vortex968)
+- 🔭 I’m currently working as a **PCB designer and hardware developer on** [Fiverr](https://www.fiverr.com/vortex968)
 
 - 👯 I’m looking to collaborate on **Embedded and IOT developer**
 
