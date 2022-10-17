@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sayantan Pal</h1>
 <h3 align="center">A passionate Electronics Engineer and founder of ElectroPoint4u</h3>
-
+<!---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palsayantan&label=Profile%20views&color=0e75b6&style=flat" alt="palsayantan" /> </p>
+--->
 
 - 🔭 I’m currently working as a **PCB designer** and **hardware developer** on [Fiverr](https://www.fiverr.com/vortex968)
 
