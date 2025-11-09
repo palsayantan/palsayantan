@@ -79,8 +79,6 @@ Whether you need custom PCB designs, IoT solutions, or embedded systems developm
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/AWS%20IoT-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/ESPHome-0A2C47?style=for-the-badge&logo=esphome&logoColor=white" />
-  <img src="https://img.shields.io/badge/FreeRTOS-005F9E?style=for-the-badge&logo=freertos&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
