@@ -49,15 +49,6 @@ You can explore all my work and completed projects on my
 
 ---
 
-### 💡 Let's Build Something Amazing Together!
-Whether you need custom PCB designs, IoT solutions, or embedded systems development, I'm here to help. Don't hesitate to reach out with your project ideas!
-
-<a href="https://www.fiverr.com/vortex968" target="_blank">
-  <img src="https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
-</a>
-
----
-
 ### 🧰 Languages & Tools
 
 <p align="center">
@@ -84,6 +75,15 @@ Whether you need custom PCB designs, IoT solutions, or embedded systems developm
   <img src="https://img.shields.io/badge/AWS%20IoT-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/ESPHome-0A2C47?style=for-the-badge&logo=esphome&logoColor=white" />
 </p>
+
+---
+
+### 💡 Let's Build Something Amazing Together!
+Whether you need custom PCB designs, IoT solutions, or embedded systems development, I'm here to help. Don't hesitate to reach out with your project ideas!
+
+<a href="https://www.fiverr.com/vortex968" target="_blank">
+  <img src="https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
+</a>
 
 ---
 
