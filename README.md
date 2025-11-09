@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#2E9E9E;">Sayantan Pal</span></h1>
-<h3 align="center">🚀 Electronics Engineer · Embedded & IoT Developer · Founder of ElectroPoint4u</h3>
+<h3 align="center">🚀 Electronics Engineer · PCB Designer · Hardware Developer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20To%20Work-Yes-2E9E9E?style=for-the-badge&logo=github" />
@@ -7,22 +7,31 @@
   <img src="https://img.shields.io/badge/Hardware%20Design-PCB%20%7C%20Prototyping-2E9E9E?style=for-the-badge" />
 </p>
 
----
+Welcome to my GitHub profile! I'm passionate about designing innovative hardware solutions and developing embedded systems. With expertise in PCB design, electronics engineering, and IoT development, I create practical solutions that bridge the physical and digital worlds.
 
+---
 ### 👨‍💻 About Me
 
-- 🔭 Currently working as a **PCB Designer** and **Hardware Developer** on [Fiverr](https://www.fiverr.com/vortex968)  
-- 🤝 Open to collaboration on **Embedded Systems** and **IoT projects**  
-- 💡 Exploring **Web & App Development** to complement IoT work  
-- 🌐 Check out my [Portfolio](https://www.fiverr.com/users/vortex968/portfolio)  
-- 💬 Ask me about **IoT, Automation, and Hardware Design**  
-- 📫 Reach me at **electropoint4u@gmail.com**
+- 🔭 Currently working as a **PCB Designer** and **Hardware Developer** on Fiverr 
+- 🤝 Open to collaboration on **Embedded Systems** and **IoT projects**
+- 🛠️ Experienced with **3D printing** and **enclosure design**
+- 🔥 Fueled by **curiosity** and the occasional **solder fumes**
+- 💡 Exploring **Web & App Development** to complement IoT work   
+- 💬 Happy to discuss **IoT, Automation, and Hardware Design**  
+
+---
+
+### 📂 Portfolio & Projects
+You can explore all my work and completed projects on my Fiverr [Portfolio](https://www.fiverr.com/users/vortex968/portfolio)
 
 ---
 
 ### 🌐 Connect with Me
 
 <p align="center">
+  <a href="mailto:electropoint4u@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Me-2E9E9E?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://linkedin.com/in/pal-sayantan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -36,6 +45,11 @@
 
 ---
 
+### 💡 Let's Build Something Amazing Together!
+Whether you need custom PCB designs, IoT solutions, or embedded systems development, I'm here to help. Don't hesitate to reach out with your project ideas!
+
+---
+
 ### 🧰 Languages & Tools
 
 <p align="center">
@@ -45,6 +59,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 
 ---
