@@ -52,13 +52,16 @@
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ESP32-2E9E9E?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/KiCad-2E9E9E?style=for-the-badge&logo=kicad&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fusion%20360-2E9E9E?style=for-the-badge&logo=autodesk&logoColor=white" />
-  <img src="https://img.shields.io/badge/MQTT-2E9E9E?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node--RED-2E9E9E?style=for-the-badge&logo=nodered&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-2E9E9E?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20IoT-2E9E9E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fusion%20360-F5851F?style=for-the-badge&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS%20IoT-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESPHome-0A2C47?style=for-the-badge&logo=esphome&logoColor=white" />
+  <img src="https://img.shields.io/badge/FreeRTOS-005F9E?style=for-the-badge&logo=freertos&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
@@ -88,6 +91,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palsayantan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
 </p>
 
+---
+
+### 🧩 Profile Highlights
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IoT%20Developer-2E9E9E?style=for-the-badge&logo=wifi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PCB%20Designer-2E9E9E?style=for-the-badge&logo=altiumdesigner&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Embedded%20Engineer-2E9E9E?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-2E9E9E?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
