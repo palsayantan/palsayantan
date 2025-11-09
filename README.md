@@ -25,8 +25,10 @@ Welcome to my GitHub profile! I'm passionate about designing innovative hardware
 You can explore all my work and completed projects on my 
 
 <a href="https://www.fiverr.com/users/vortex968/portfolio" target="_blank">
-  <img src="https://img.shields.io/badge/Fiverr-Portfolio-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
-</a>
+  <img src="https://img.shields.io/badge/Portfolio-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
+&nbsp;
+<a href="https://www.fiverr.com/vortex968" target="_blank">
+  <img src="https://img.shields.io/badge/Profile-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
 
 ---
 
@@ -34,20 +36,13 @@ You can explore all my work and completed projects on my
 
 <p align="center">
   <a href="mailto:electropoint4u@gmail.com">
-  <img src="https://img.shields.io/badge/Email-314CB6?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Email-314CB6?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
   <a href="https://linkedin.com/in/pal-sayantan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a href="https://instagram.com/electropoint4u" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
   <a href="https://www.youtube.com/c/electropoint4u" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://www.fiverr.com/vortex968" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-Profile-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
 ---
