@@ -1,35 +1,102 @@
-<h1 align="center">Hi 👋, I'm Sayantan Pal</h1>
-<h3 align="center">A passionate Electronics Engineer and founder of ElectroPoint4u</h3>
-<!---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=palsayantan&label=Profile%20views&color=0e75b6&style=flat" alt="palsayantan" /> </p>
---->
+<h1 align="center">👋 Hi, I'm <span style="color:#2E9E9E;">Sayantan Pal</span></h1>
+<h3 align="center">🚀 Electronics Engineer · Embedded & IoT Developer · Founder of ElectroPoint4u</h3>
 
-- 🔭 I’m currently working as a **PCB designer** and **hardware developer** on [Fiverr](https://www.fiverr.com/vortex968)
-
-- 👯 I’m looking to collaborate on **Embedded** and **IOT developer**
-
-- 🤝 I’m looking for help with **Web and App developement**
-
-- 👨‍💻 All of my projects are available at [my Portfolio](https://www.fiverr.com/users/vortex968/portfolio)
-
-- 💬 Ask me about **IOT and Automation**
-
-- 📫 How to reach me **electropoint4u@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/electropoint4u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="electropoint4u" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pal-sayantan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pal-sayantan" height="30" width="40" /></a>
-<a href="https://fb.com/electropoint4u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="electropoint4u" height="30" width="40" /></a>
-<a href="https://instagram.com/electropoint4u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="electropoint4u" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/electropoint4u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="electropoint4u" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20To%20Work-Yes-2E9E9E?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Focus-Embedded%20Systems%20|%20IoT-2E9E9E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hardware%20Design-PCB%20%7C%20Prototyping-2E9E9E?style=for-the-badge" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
-<!---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=palsayantan&show_icons=true&locale=en&layout=compact" alt="palsayantan" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=palsayantan&show_icons=true&locale=en" alt="palsayantan" /></p>
---->
+### 👨‍💻 About Me
 
+- 🔭 Currently working as a **PCB Designer** and **Hardware Developer** on [Fiverr](https://www.fiverr.com/vortex968)  
+- 🤝 Open to collaboration on **Embedded Systems** and **IoT projects**  
+- 💡 Exploring **Web & App Development** to complement IoT work  
+- 🌐 Check out my [Portfolio](https://www.fiverr.com/users/vortex968/portfolio)  
+- 💬 Ask me about **IoT, Automation, and Hardware Design**  
+- 📫 Reach me at **electropoint4u@gmail.com**
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/pal-sayantan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/electropoint4u" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/c/electropoint4u" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🧰 Languages & Tools
+
+<p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</p>
+
+---
+
+### ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ESP32-2E9E9E?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/KiCad-2E9E9E?style=for-the-badge&logo=kicad&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fusion%20360-2E9E9E?style=for-the-badge&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/MQTT-2E9E9E?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node--RED-2E9E9E?style=for-the-badge&logo=nodered&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-2E9E9E?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20IoT-2E9E9E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
+---
+
+### 📂 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| [**BLE-Game-Controller**](https://github.com/palsayantan/BLE-Game-Controller) | DIY handheld **game controller** built with ESP32 and BLE — fun hardware + firmware project 🎮 |
+| [**Neopixel-7-Segment-Digital-Clock**](https://github.com/palsayantan/Neopixel-7-Segment-Digital-Clock) | RGB **7-segment digital clock** using WS2812B LEDs and ESP8266 ⏰ |
+| [**Neopixel-XL**](https://github.com/palsayantan/Neopixel-XL) | High-power **3 W addressable RGB LED board** for creative lighting 💡 |
+| [**Smart Vending Machine**](https://github.com/palsayantan/Smart_Vending_Machine) | IoT-based **RFID vending system** with ESP32 and cloud logging ☁️ |
+| [**ESP32-5x5-TouchPad**](https://github.com/palsayantan/ESP32-5x5-TouchPad) | Custom **5×5 touch matrix** demo — gesture & multi-touch interface 🔘 |
+
+➡️ *See more at my [GitHub Profile](https://github.com/palsayantan)*
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=palsayantan&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=palsayantan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palsayantan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
+</p>
+
+---
+
+### 🐍 My GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/palsayantan/palsayantan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+### ⚡ Fun Fact  
+> I turn **ideas into working circuits**, one PCB at a time.
