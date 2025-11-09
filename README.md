@@ -87,7 +87,7 @@ Whether you need custom PCB designs, IoT solutions, or embedded systems developm
 
 | Project | Description |
 |----------|-------------|
-| [**BLE-Game-Controller**](https://github.com/palsayantan/BLE-Game-Controller) | DIY handheld **game controller** built with ESP32 and BLE — fun hardware + firmware project 🎮 |
+| [**BLE-Game-Controller**](https://github.com/palsayantan/BLE-Game-Controller) | DIY handheld **game controller** built with ESP32 — fun hardware + firmware project 🎮 |
 | [**Neopixel-7-Segment-Digital-Clock**](https://github.com/palsayantan/Neopixel-7-Segment-Digital-Clock) | RGB **7-segment digital clock** using WS2812B LEDs and ESP8266 ⏰ |
 | [**Neopixel-XL**](https://github.com/palsayantan/Neopixel-XL) | High-power **3 W addressable RGB LED board** for creative lighting 💡 |
 | [**Smart Vending Machine**](https://github.com/palsayantan/Smart_Vending_Machine) | IoT-based **RFID vending system** with ESP32 and cloud logging ☁️ |
