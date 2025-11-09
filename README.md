@@ -2,9 +2,9 @@
 <h3 align="center">🚀 Electronics Engineer · PCB Designer · Hardware Developer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20To%20Work-Yes-2E9E9E?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Focus-Embedded%20Systems%20|%20IoT-2E9E9E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hardware%20Design-PCB%20%7C%20Prototyping-2E9E9E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20To%20Work-Yes-007ACC?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Focus-Embedded%20Systems%20|%20IoT-007ACC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hardware%20Design-PCB%20%7C%20Prototyping-007ACC?style=for-the-badge" />
 </p>
 
 Welcome to my GitHub profile! I'm passionate about designing innovative hardware solutions and developing embedded systems. With expertise in PCB design, electronics engineering, and IoT development, I create practical solutions that bridge the physical and digital worlds.
@@ -22,7 +22,11 @@ Welcome to my GitHub profile! I'm passionate about designing innovative hardware
 ---
 
 ### 📂 Portfolio & Projects
-You can explore all my work and completed projects on my Fiverr [Portfolio](https://www.fiverr.com/users/vortex968/portfolio)
+You can explore all my work and completed projects on my 
+
+<a href="https://www.fiverr.com/users/vortex968/portfolio" target="_blank">
+  <img src="https://img.shields.io/badge/Fiverr-Portfolio-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
+</a>
 
 ---
 
@@ -30,7 +34,7 @@ You can explore all my work and completed projects on my Fiverr [Portfolio](http
 
 <p align="center">
   <a href="mailto:electropoint4u@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Me-2E9E9E?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-314CB6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/pal-sayantan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
